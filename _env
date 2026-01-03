@@ -1,0 +1,11 @@
+# --- CONFIGURATION ---
+
+COPY_ADDRESS=wallet_address_you_are_copy_trading
+PERSONAL_WALLET=my_wallet_address_here
+PRIVATE_KEY=my_private_key_here
+
+CLOB_HTTP_URL=https://clob.polymarket.com
+CLOB_WS_URL=wss://clob.polymarket.com/ws
+RPC_URL=https://polygon-rpc.com
+USDC_CONTRACT_ADDRESS=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+FETCH_INTERVAL=1

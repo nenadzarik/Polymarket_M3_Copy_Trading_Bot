@@ -1,0 +1,20 @@
+
+{
+  "name": "polymarket_m3_trading_bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@polymarket/clob-client": "^5.0.0",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "mongoose": "^8.9.5",
+    "moment": "^2.29.0",
+    "ora": "^8.2.0"
+  }
+}
+
