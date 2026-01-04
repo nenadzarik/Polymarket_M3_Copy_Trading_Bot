@@ -2,6 +2,8 @@
 
 The **Polymarket M3 (Multi-Model Meta) bot** is a specialized high-speed execution suite designed to replicate the trades of top-tier professional traders in real time. By monitoring specific **“Smart Money” wallet addresses** on the blockchain, the bot executes identical positions for your account within milliseconds of the target transaction.
 
+![polymarket](https://github.com/user-attachments/assets/ae83f9f9-96ee-462d-9089-ea08ad05d7bb)
+
 ---
 
 ## Prerequisites (Step 1)
